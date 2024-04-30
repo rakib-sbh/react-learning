@@ -1,9 +1,9 @@
-import UseCallback from "./components/HOOKS/UseCallback/UseCallback";
+import Index from "./components/ClockApp/Index";
 
 const App = () => {
   return (
     <>
-      <UseCallback />
+      <Index />
     </>
   );
 };
