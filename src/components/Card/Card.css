@@ -1,0 +1,9 @@
+h1 {
+  margin-bottom: 20px;
+}
+.card {
+  background-color: bisque;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}

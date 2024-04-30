@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "How rich can you be in one year",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos ea voluptatibus totam laudantium aut beatae maiores dolorem soluta sint minima."
+  },
+  {
+    "id": 2,
+    "title": "Tell Me about your school",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos ea voluptatibus totam laudantium aut beatae maiores dolorem soluta sint minima."
+  },
+  {
+    "id": 3,
+    "title": "Tell Me about your refund policy",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos ea voluptatibus totam laudantium aut beatae maiores dolorem soluta sint minima."
+  }
+]

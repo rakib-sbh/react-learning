@@ -1,0 +1,19 @@
+.heading {
+  margin-bottom: 20px;
+}
+.inputGroup {
+  margin-bottom: 10px;
+}
+
+.button {
+  background-color: aquamarine;
+  outline: none;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
