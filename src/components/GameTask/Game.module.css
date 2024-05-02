@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 90vh;
+}
+
+.header,
+.game {
+  display: flex;
+  background-color: beige;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+  margin: 0 2rem;
+}
+
+.btn {
+  padding: 1rem 3rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  background-color: yellow;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: tomato;
+}
+.scoreBoard {
+  text-align: center;
+}
+
+.score {
+  text-align: center;
+}
