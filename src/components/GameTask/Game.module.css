@@ -28,8 +28,28 @@
 }
 .scoreBoard {
   text-align: center;
+  margin-bottom: 20px;
+}
+
+.scoreArray {
+  display: grid;
+  gap: 10px;
+  margin: 10px auto;
+  grid-template-columns: repeat(10, 1fr);
+  justify-items: center;
+  border: 2px solid black;
+}
+
+.box {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  border-radius: 50%;
 }
 
 .score {
   text-align: center;
+  background-color: black;
+  color: white;
+  padding: 5px 10px;
 }
